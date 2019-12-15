@@ -1,0 +1,28 @@
+.idea/
+
+nodu_modules
+npm-debug.log
+.DS_Store
+
+
+###Windows tamplate
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Descktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+#Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+#Windows shortcuts
+*.lnk
+
+#If you find something else, feel free to add it
